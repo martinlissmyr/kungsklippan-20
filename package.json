@@ -1,21 +1,17 @@
 {
-  "name": "drm-docs",
+  "name": "kungsklippan-20",
   "version": "0.0.1",
-  "description": "Planning documentation for Unicef DRM.",
+  "description": "Kungsklippan 20 - kom och köp!",
   "main": "server.js",
   "private": true,
   "scripts": {
     "start": "node app/server.js"
   },
   "dependencies": {
-    "airtable-node": "^0.1.20",
     "ejs": "^2.5.9",
     "express": "^4.16.4"
   },
   "engines": {
     "node": "10.x"
-  },
-  "repository": {
-    "url": "https://github.com/unicefsverige/drm-docs"
   }
 }
